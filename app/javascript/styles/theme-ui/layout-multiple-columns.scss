@@ -216,17 +216,17 @@ body.theme-default.layout-multiple-columns {
   --color-columns: rgba(255, 255, 255, 0.5);
 
   --color-brand-mastodon: #be9b2a;
-  --color-brand-mastodon-links: #df98a2;
+  --color-brand-mastodon-links: #baf7ee;
   --color-accent-dark-50: #be9b2a80;
 
-  --color-accent:#df98a2;
+  --color-accent:#baf7ee;
   --color-accent-dark: #be9b2a;
 
   --color-bg: #fff;
   --color-fg: #000;
 
   --color-border: #e9dee0;
-  --color-dim: #c16c80;
+  --color-dim: #88048f;  //#c16c80
   --color-light-text: #1f1b23;
 
   --color-green: #17bf63;
@@ -235,7 +235,7 @@ body.theme-default.layout-multiple-columns {
   --color-focusable-toot: rgba(0, 0, 0, 0.035);
 
   --color-light-shade: #00000005;;
-  --color-mud: #f0dee2;
+  --color-mud: #575bde;
 
   --color-black-coral: #9188a6;
 
@@ -246,7 +246,7 @@ body.theme-default.layout-multiple-columns {
   --color-dark: #f7f9f9;
   --color-thread-line: #e1e8ed;
   --color-gainsboro: #8899a6;
-  --color-light-purple: #df98a2;
+  --color-light-purple: #baf7ee;
   --color-dark-electric-blue: #9088a6;
   --color-bg-75: #ffffffbf;
   --color-accent: var(--color-accent-dark);
